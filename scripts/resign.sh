@@ -1,3 +1,5 @@
+#!/bin/sh
+
 source resign_setup.sh
 
 BASE_PATH=`pwd`
