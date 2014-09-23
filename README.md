@@ -3,7 +3,7 @@ resign_ipa
 
 Did your provisioning profile on your .ipa file run out? This script will resign your app without touching anything else.
 
-Usage 
+Usage
 In the script resign_setup.sh you setup the paths to your updated provisioning profile, and your signing indentity. When ready, you execute the resign.sh script. The folder structure should be:
 
 resign_ipa 
